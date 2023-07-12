@@ -9,7 +9,9 @@
  ## 🌱 Current Focus
  Currently, I am honing my skills in front-end development, particularly in React and React Native. I am also exploring the potential of blockchain technology and its applications in various domains.
  ## 📫 Contact Me
- If you have any questions, project proposals, or just want to connect, feel free to reach out to me at +38 099 660 15 50
+ If you have any questions, project proposals, or just want to connect, feel free to reach out to me at +38 099 660 15 50 or via telegram at https://t.me/risktaker0501
+![image](https://github.com/Risk-taker0501/Risk-taker0501/assets/129389058/9e2b0a8d-bfe3-4eee-89ac-531c97eff8a3)
+
  or via email at risk.taker2024@gmail.com
 . I am always open to new opportunities and collaborations.
  Let's connect and build something amazing together! 😊
