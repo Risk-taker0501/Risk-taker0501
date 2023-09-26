@@ -6,6 +6,7 @@
  - Front-End: React, React Native, HTML, CSS, JavaScript, Typescript
 - Back-End: Node.js, Express.js, Nest.js, Django, Laravel
 - Blockchain: Solidity, Ethereum
+- other skills: .NET CORE, ASP.NET
  ## 🌱 Current Focus
  Currently, I am honing my skills in front-end development, particularly in React and React Native. I am also exploring the potential of blockchain technology and its applications in various domains.
  ## 📫 Contact Me
