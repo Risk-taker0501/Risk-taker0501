@@ -1,15 +1,18 @@
- # Hi there! 👋
- I'm a senior Full Stack and Blockchain Developer with a special focus on front-end development. My skills revolve around React and Node and .NET.
- ## 💼 Professional Background
- I have 10 years of experience in the software development industry, working on various projects ranging from web applications to blockchain-based solutions. I am passionate about creating user-friendly and innovative applications that deliver a seamless user experience.
- ## 🔧 Tech Stack
- - Front-End: React, React Native, HTML, CSS, JavaScript, Typescript
-- Back-End: Node.js, Express.js, Nest.js, Django, Laravel
-- Blockchain: Solidity, Ethereum
-- other skills: .NET CORE, ASP.NET
- ## 🌱 Current Focus
- Currently, I am honing my skills in front-end development, particularly in React and React Native. I am also exploring the potential of blockchain technology and its applications in various domains.
- ## 📫 Contact Me
- If you have any questions, project proposals, or just want to connect, feel free to reach out to me at telegram at https://t.me/risktaker0501 or via email at risk.taker2024@gmail.com
-. I am always open to new opportunities and collaborations.
- Let's connect and build something amazing together! 😊
+# Hi there! 👋
+I'm a seasoned Game Developer with a special focus on Unity and Unreal Engine. My skills revolve around C#, C++, and game scripting.
+
+## 💼 Professional Background
+I have 10 years of experience in the game development industry, working on various projects ranging from indie games to AAA titles. I am passionate about creating immersive and innovative games that deliver an unforgettable player experience.
+
+## 🔧 Tech Stack
+- Game Engines: Unity, Unreal Engine
+- Languages: C#, C++, Python
+- Other skills: Game Design, 3D Modeling, Animation
+
+## 🌱 Current Focus
+Currently, I am honing my skills in game development, particularly in Unity and Unreal Engine. I am also exploring the potential of VR and AR technology and its applications in various game genres.
+
+## 📫 Contact Me
+If you have any questions, project proposals, or just want to connect, feel free to reach out to me at telegram at https://t.me/risktaker0501 or via email at risk.taker2024@gmail.com. I am always open to new opportunities and collaborations.
+
+Let's connect and build something amazing together! 😊
