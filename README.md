@@ -1,18 +1,20 @@
-# Hi there! 👋
-I'm a seasoned Game Developer with a special focus on Unity and Unreal Engine. My skills revolve around C#, C++, and game scripting.
+Hi there! 👋
+I'm a seasoned Full Stack Developer with a special focus on React, React Native, Next.js, Vue, Nuxt, Laravel and Django. 
+I'm also so familiar with .Net and Asp.Net.
+My skills revolve around JavaScript, TypeScript, C#, Python, and PHP.
 
-## 💼 Professional Background
-I have 10 years of experience in the game development industry, working on various projects ranging from indie games to AAA titles. I am passionate about creating immersive and innovative games that deliver an unforgettable player experience.
+💼 Professional Background
+I have 10 years of experience in the software development industry, working on various projects ranging from small startups to large enterprises. I am passionate about creating robust and scalable web and mobile applications that deliver a superior user experience.
 
-## 🔧 Tech Stack
-- Game Engines: Unity, Unreal Engine
-- Languages: C#, C++, Python
-- Other skills: Game Design, 3D Modeling, Animation
+🔧 Tech Stack
+Front-end: React, Vue, Nuxt
+Mobile: React Native, Flutter, Android
+Back-end: Node (with Next.js), NestJS, Laravel, Django
+Languages: JavaScript, Python, PHP
+🌱 Current Focus
+Currently, I am refining my skills in full stack development, particularly using the mentioned technologies. I am also exploring the potential of advanced front-end frameworks and server-side languages, and how they can be optimally combined to produce exceptional digital products.
 
-## 🌱 Current Focus
-Currently, I am honing my skills in game development, particularly in Unity and Unreal Engine. I am also exploring the potential of VR and AR technology and its applications in various game genres.
+📫 Contact Me
+Got questions, project proposals, or just want to connect? Don't hesitate to reach out to me at my telegram https://t.me/risktaker0501 or via email at risk.taker2024@gmail.com. I am always open to new opportunities and collaborations.
 
-## 📫 Contact Me
-If you have any questions, project proposals, or just want to connect, feel free to reach out to me at telegram at https://t.me/risktaker0501 or via email at risk.taker2024@gmail.com. I am always open to new opportunities and collaborations.
-
-Let's connect and build something amazing together! 😊
+Let's connect and build something impactful together! 😊
